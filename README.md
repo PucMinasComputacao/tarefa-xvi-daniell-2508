@@ -1,5 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xoMhWLvO)
-Trabalho Prático - Semana 15
+Trabalho Prático - Semana 16\
+
+
 
 
 Personalização do site com Integração de Login de Usuário
@@ -24,3 +26,5 @@ Quando o usuário informa login e senha, a função loginUser(login, senha) proc
 Uma vez carregada a home-page com o usuário validado, pode-se personalizar a apresentação para exibir os dados do usuário logado via dados mantidos no objeto usuarioCorrente.
 Para fazer logoff, a função logoutUser() apaga os dados do objeto usuarioCorrente no sessionStorage, redirecionando o Navegador para o formulário de validação de login e senha.
 💡 Você pode alterar a dinâmica básica utilizando as funções disponíveis e documentadas no arquivo login.js.
+
+
