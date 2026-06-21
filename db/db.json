@@ -1,7 +1,7 @@
 {
   "filmes": [
     {
-      "id": 1,
+      "id": "1",
       "titulo": "Matrix",
       "descricaoCurta": "Um hacker descobre que a realidade é uma simulação.",
       "descricaoCompleta": "Thomas Anderson, um programador que vive uma dupla vida como hacker, descobre que o mundo em que vive é uma simulação chamada Matrix, controlada por máquinas. Ele se junta à resistência para libertar a humanidade.",
@@ -11,11 +11,16 @@
       "ano": 1999,
       "diretor": "Lana e Lilly Wachowski",
       "duracao": "2h16min",
-      "tags": ["ação", "ficção científica", "cyberpunk", "clássico"],
+      "tags": [
+        "ação",
+        "ficção científica",
+        "cyberpunk",
+        "clássico"
+      ],
       "destaque": true
     },
     {
-      "id": 2,
+      "id": "2",
       "titulo": "Interestelar",
       "descricaoCurta": "Astronautas viajam por um buraco de minhoca em busca de um novo lar.",
       "descricaoCompleta": "Com a Terra se tornando inabitável, um grupo de astronautas viaja através de um buraco de minhoca próximo a Saturno em busca de um novo planeta habitável para a humanidade.",
@@ -25,11 +30,16 @@
       "ano": 2014,
       "diretor": "Christopher Nolan",
       "duracao": "2h49min",
-      "tags": ["espaço", "drama", "ficção científica", "tempo"],
+      "tags": [
+        "espaço",
+        "drama",
+        "ficção científica",
+        "tempo"
+      ],
       "destaque": true
     },
     {
-      "id": 3,
+      "id": "3",
       "titulo": "O Poderoso Chefão",
       "descricaoCurta": "A saga de uma família mafiosa italiana nos Estados Unidos.",
       "descricaoCompleta": "Vito Corleone é o chefe de uma das cinco famílias da máfia de Nova York. Após uma tentativa de assassinato, seu filho Michael assume o controle da família e mergulha no mundo do crime organizado.",
@@ -39,11 +49,16 @@
       "ano": 1972,
       "diretor": "Francis Ford Coppola",
       "duracao": "2h55min",
-      "tags": ["máfia", "drama", "crime", "clássico"],
+      "tags": [
+        "máfia",
+        "drama",
+        "crime",
+        "clássico"
+      ],
       "destaque": true
     },
     {
-      "id": 4,
+      "id": "4",
       "titulo": "Inception",
       "descricaoCurta": "Um ladrão que rouba segredos dos sonhos recebe uma missão impossível.",
       "descricaoCompleta": "Dom Cobb é um ladrão especializado em roubar segredos do subconsciente durante o sono. Ele recebe a chance de ter sua vida de volta se conseguir realizar a tarefa aparentemente impossível de implantar uma ideia na mente de alguém.",
@@ -53,11 +68,16 @@
       "ano": 2010,
       "diretor": "Christopher Nolan",
       "duracao": "2h28min",
-      "tags": ["sonhos", "ação", "ficção científica", "suspense"],
+      "tags": [
+        "sonhos",
+        "ação",
+        "ficção científica",
+        "suspense"
+      ],
       "destaque": false
     },
     {
-      "id": 5,
+      "id": "5",
       "titulo": "Parasita",
       "descricaoCurta": "Uma família pobre se infiltra na vida de uma família rica.",
       "descricaoCompleta": "A família Kim, que vive na pobreza, começa a se infiltrar na vida da família Park, rica e ingênua. O que começa como um esquema inteligente logo se transforma em algo muito mais sombrio e imprevisível.",
@@ -67,11 +87,16 @@
       "ano": 2019,
       "diretor": "Bong Joon-ho",
       "duracao": "2h12min",
-      "tags": ["classe social", "suspense", "drama", "coreano"],
+      "tags": [
+        "classe social",
+        "suspense",
+        "drama",
+        "coreano"
+      ],
       "destaque": true
     },
     {
-      "id": 6,
+      "id": "6",
       "titulo": "Coringa",
       "descricaoCurta": "A origem sombria do icônico vilão da DC.",
       "descricaoCompleta": "Arthur Fleck é um comediante fracassado que, após uma série de eventos traumáticos, se transforma no Coringa, o famoso vilão de Gotham City. Um estudo profundo sobre saúde mental e sociedade.",
@@ -81,11 +106,16 @@
       "ano": 2019,
       "diretor": "Todd Phillips",
       "duracao": "2h02min",
-      "tags": ["dc", "vilão", "drama", "psicológico"],
+      "tags": [
+        "dc",
+        "vilão",
+        "drama",
+        "psicológico"
+      ],
       "destaque": false
     },
     {
-      "id": 7,
+      "id": "7",
       "titulo": "Vingadores: Ultimato",
       "descricaoCurta": "Os heróis restantes se unem para reverter o snap de Thanos.",
       "descricaoCompleta": "Após Thanos eliminar metade de todas as criaturas vivas, os Vingadores sobreviventes se reúnem para tentar desfazer o estrago causado pelo vilão numa última e desesperada batalha.",
@@ -95,11 +125,16 @@
       "ano": 2019,
       "diretor": "Anthony e Joe Russo",
       "duracao": "3h01min",
-      "tags": ["marvel", "super-herói", "ação", "aventura"],
+      "tags": [
+        "marvel",
+        "super-herói",
+        "ação",
+        "aventura"
+      ],
       "destaque": false
     },
     {
-      "id": 8,
+      "id": "8",
       "titulo": "A Origem",
       "descricaoCurta": "Um thriller de espionagem dentro dos sonhos.",
       "descricaoCompleta": "Baseado na história real de operações de espionagem mental, o filme acompanha uma equipe que entra nos sonhos de executivos para roubar informações corporativas valiosas.",
@@ -109,11 +144,15 @@
       "ano": 2010,
       "diretor": "Christopher Nolan",
       "duracao": "2h28min",
-      "tags": ["espionagem", "ação", "suspense"],
+      "tags": [
+        "espionagem",
+        "ação",
+        "suspense"
+      ],
       "destaque": false
     },
     {
-      "id": 9,
+      "id": "9",
       "titulo": "Clube da Luta",
       "descricaoCurta": "Um homem insatisfeito forma um clube de luta secreto.",
       "descricaoCompleta": "Um homem insatisfeito com sua vida monótona forma um clube de luta clandestino com um carismático vendedor de sabão. O que começa como uma válvula de escape evolui para algo muito maior e mais perigoso.",
@@ -123,11 +162,16 @@
       "ano": 1999,
       "diretor": "David Fincher",
       "duracao": "2h19min",
-      "tags": ["psicológico", "drama", "twist", "clássico"],
+      "tags": [
+        "psicológico",
+        "drama",
+        "twist",
+        "clássico"
+      ],
       "destaque": false
     },
     {
-      "id": 10,
+      "id": "10",
       "titulo": "Homem-Aranha: Sem Volta Para Casa",
       "descricaoCurta": "Peter Parker enfrenta vilões de universos paralelos.",
       "descricaoCompleta": "Após sua identidade ser revelada, Peter Parker pede ajuda ao Doutor Estranho para fazer o mundo esquecer que ele é o Homem-Aranha. O feitiço dá errado e abre as portas do multiverso.",
@@ -137,42 +181,93 @@
       "ano": 2021,
       "diretor": "Jon Watts",
       "duracao": "2h28min",
-      "tags": ["marvel", "multiverso", "ação", "super-herói"],
+      "tags": [
+        "marvel",
+        "multiverso",
+        "ação",
+        "super-herói"
+      ],
       "destaque": true
     }
   ],
   "categorias": [
-    { "id": 1, "nome": "Ação" },
-    { "id": 2, "nome": "Drama" },
-    { "id": 3, "nome": "Ficção Científica" },
-    { "id": 4, "nome": "Suspense" },
-    { "id": 5, "nome": "Comédia" },
-    { "id": 6, "nome": "Terror" }
+    {
+      "id": "1",
+      "nome": "Ação"
+    },
+    {
+      "id": "2",
+      "nome": "Drama"
+    },
+    {
+      "id": "3",
+      "nome": "Ficção Científica"
+    },
+    {
+      "id": "4",
+      "nome": "Suspense"
+    },
+    {
+      "id": "5",
+      "nome": "Comédia"
+    },
+    {
+      "id": "6",
+      "nome": "Terror"
+    }
   ],
   "avaliacoes": [
-    { "id": 1, "filmeId": 1, "usuario": "João", "nota": 9, "comentario": "Obra-prima!" },
-    { "id": 2, "filmeId": 2, "usuario": "Maria", "nota": 10, "comentario": "Melhor filme de ficção científica!" },
-    { "id": 3, "filmeId": 3, "usuario": "Carlos", "nota": 10, "comentario": "Clássico eterno." }
+    {
+      "id": "1",
+      "filmeId": 1,
+      "usuario": "João",
+      "nota": 9,
+      "comentario": "Obra-prima!"
+    },
+    {
+      "id": "2",
+      "filmeId": 2,
+      "usuario": "Maria",
+      "nota": 10,
+      "comentario": "Melhor filme de ficção científica!"
+    },
+    {
+      "id": "3",
+      "filmeId": 3,
+      "usuario": "Carlos",
+      "nota": 10,
+      "comentario": "Clássico eterno."
+    }
   ],
   "favoritos": [
-    { "id": 1, "filmeId": 1 },
-    { "id": 2, "filmeId": 3 },
-    { "id": 3, "filmeId": 5 }
+    {
+      "id": "1",
+      "filmeId": 1
+    },
+    {
+      "id": "2",
+      "filmeId": 3
+    },
+    {
+      "id": "3",
+      "filmeId": 5
+    }
   ],
   "usuarios": [
     {
-      "id": 1,
+      "id": "1",
       "nome": "Administrador",
       "login": "admin",
       "senha": "123",
       "email": "admin@cineverse.com"
     },
     {
-      "id": 2,
+      "id": "2",
       "nome": "Usuário Teste",
       "login": "user",
       "senha": "123",
       "email": "user@cineverse.com"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
