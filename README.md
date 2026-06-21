@@ -2,6 +2,8 @@
 Trabalho Prático - Semana 16\
 
 
+Imagens em IMAGES ( get.png, post.png, put.png, delete.png, getfilmes.png, postfilmes.png)
+
 
 
 Personalização do site com Integração de Login de Usuário
