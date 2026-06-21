@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard de Filmes - Gráficos</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #141414; /* Tom escuro estilo Netflix para combinar com Filmes */
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        header {
+            width: 100%;
+            max-width: 900px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #E50914; /* Linha vermelha temática */
+            padding-bottom: 10px;
+        }
+        .btn-voltar {
+            background-color: #E50914;
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .btn-voltar:hover {
+            background-color: #b80710;
+        }
+        .container-grafico {
+            width: 100%;
+            max-width: 700px;
+            background-color: #1f1f1f;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        }
+        h2 {
+            text-align: center;
+            margin-top: 0;
+            color: #E50914;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>🎬 CineDashboard</h1>
+        <a href="index.html" class="btn-voltar">← Voltar para Home</a>
+    </header>
+
+    <div class="container-grafico">
+        <h2>Quantidade de Filmes por Categoria</h2>
+        <canvas id="graficoCategorias"></canvas>
+    </div>
+
+    <script src="dashboard.js"></script>
+</body>
+</html>

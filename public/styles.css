@@ -1,0 +1,56 @@
+
+body {
+  background-color: #f8f9fa;
+}
+
+.titulo-secao {
+  border-left: 4px solid #dc3545;
+  padding-left: 12px;
+}
+
+.card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: none;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15) !important;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 350px;
+}
+
+.navbar-brand {
+  font-size: 1.4rem;
+}
+
+.badge {
+  font-size: 0.85rem;
+}
+
+/* ===================== FAVORITOS ===================== */
+
+.btn-favorito {
+  background-color: rgba(255, 255, 255, 0.85);
+  border: none;
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  transition: transform 0.15s ease, background-color 0.15s ease;
+}
+
+.btn-favorito:hover {
+  transform: scale(1.15);
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.card-favorito {
+  border: 2px solid #dc3545 !important;
+}
